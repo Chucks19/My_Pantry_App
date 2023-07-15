@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "fName": "victor",
+      "LName": "agbai",
+      "email": "victoria5050@gmail.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Thu Jul 13 2023 06:30:40 GMT+0100 (West Africa Standard Time)",
+      "id": "675fe1d0-213e-11ee-9c0d-335a0bedb325"
+    },
+    {
+      "fName": "victor",
+      "LName": "agbai",
+      "email": "john@example.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Thu Jul 13 2023 10:44:48 GMT+0100 (West Africa Standard Time)",
+      "id": "e7fc9ae0-2161-11ee-b9e7-bf1de9a55a9f"
+    },
+    {
+      "fName": "victor",
+      "LName": "agbai",
+      "email": "mkvictor579@gmail.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Thu Jul 13 2023 10:47:09 GMT+0100 (West Africa Standard Time)",
+      "id": "3c2a2290-2162-11ee-9920-abe317820cfd"
+    },
+    {
+      "fName": "victor",
+      "LName": "agbai",
+      "email": "mkvictor579@gmail.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Thu Jul 13 2023 10:47:26 GMT+0100 (West Africa Standard Time)",
+      "id": "463cb7c0-2162-11ee-9920-abe317820cfd"
+    },
+    {
+      "fName": "victor",
+      "LName": "agbai",
+      "email": "john@example.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Thu Jul 13 2023 10:58:27 GMT+0100 (West Africa Standard Time)",
+      "id": "d028fc90-2163-11ee-81b9-c52e9230c2d0"
+    },
+    {
+      "fName": "victor",
+      "LName": "agbai",
+      "email": "victoria2023@gmail.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Thu Jul 13 2023 15:44:15 GMT+0100 (West Africa Standard Time)",
+      "id": "bd1c18d0-218b-11ee-a8ef-f3a22a132e32"
+    },
+    {
+      "fName": "victor",
+      "LName": "agbai",
+      "email": "victoria5050@gmail.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Fri Jul 14 2023 02:42:45 GMT+0100 (West Africa Standard Time)",
+      "id": "bb4e0ac0-21e7-11ee-928f-c9cd66f5d1fb"
+    },
+    {
+      "fName": "victor",
+      "LName": "sorry first name should not be empty",
+      "email": "victoria5050@gmail.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Fri Jul 14 2023 04:13:43 GMT+0100 (West Africa Standard Time)",
+      "id": "70881f50-21f4-11ee-928f-c9cd66f5d1fb"
+    },
+    {
+      "fName": "victor",
+      "LName": "sorry first name should not be empty",
+      "email": "victoria5050@gmail.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Fri Jul 14 2023 04:13:44 GMT+0100 (West Africa Standard Time)",
+      "id": "70dc80e0-21f4-11ee-928f-c9cd66f5d1fb"
+    },
+    {
+      "fName": "victor",
+      "LName": "sorry first name should not be empty",
+      "email": "victoria5050@gmail.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Fri Jul 14 2023 04:13:44 GMT+0100 (West Africa Standard Time)",
+      "id": "71078880-21f4-11ee-928f-c9cd66f5d1fb"
+    },
+    {
+      "fName": "victor",
+      "LName": "sorry first name should not be empty",
+      "email": "victoria5050@gmail.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Fri Jul 14 2023 04:13:44 GMT+0100 (West Africa Standard Time)",
+      "id": "71313090-21f4-11ee-928f-c9cd66f5d1fb"
+    },
+    {
+      "fName": "victor",
+      "LName": "sorry first name should not be empty",
+      "email": "victoria5050@gmail.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Fri Jul 14 2023 04:13:45 GMT+0100 (West Africa Standard Time)",
+      "id": "71588eb0-21f4-11ee-928f-c9cd66f5d1fb"
+    },
+    {
+      "fName": "victor",
+      "LName": "sorry first name should not be empty",
+      "email": "victoria5050@gmail.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Fri Jul 14 2023 04:13:58 GMT+0100 (West Africa Standard Time)",
+      "id": "7937a210-21f4-11ee-928f-c9cd66f5d1fb"
+    },
+    {
+      "fName": "victor",
+      "LName": "sorry first name should not be empty",
+      "email": "victoria5050@gmail.com",
+      "password": "mkmkmkmkmk",
+      "createdAt": "Fri Jul 14 2023 04:15:45 GMT+0100 (West Africa Standard Time)",
+      "id": "b92c0230-21f4-11ee-928f-c9cd66f5d1fb"
+    }
+  ],
+  "usersDetails": [
+    {
+      "userId": "",
+      "userLocation": "",
+      "userPhoneNumber": "",
+      "userAge": "",
+      "NextOfKnis": ""
+    }
+  ],
+  "LandDetails": [
+    {
+      "Land_id": 1,
+      "Caption": "The premium Estate",
+      "Land_Title": "Registered Survey plan",
+      "Land_Size": "500 sqm",
+      "Land_Type": "Commercial Land",
+      "Land_price": "#8M",
+      "Land_pictures": "/Img/Img1",
+      "Land_location": "Poka, Epe lagos, Epe",
+      "Contact_Person": {
+        "Whatsapp": 7082245417
+      },
+      "Land_Details": "Introducing THE PREMIUM - EXPERIENCE GREENERY WITH LUXURY Escape to THE PREMIUM , where luxury and greenery intertwine to create an enchanting retreat  unlike any other. This captivating estate is a lush green oasis that indulges your senses and pampers your soul while treading lightly on the planet. THE PREMIUM is where luxury becomes a harmonious accomplice to nature. Experience a green paradise where lavish living and environmental  stewardship unite, and discover a realm where opulence and sustainability coexist in perfect harmony."
+    }
+  ]
+}
