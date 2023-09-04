@@ -8,7 +8,8 @@ import Card from "./aa/Card";
 
 export default function App(){
        return(
-              <div>
+                           <div>
+                              <Navbar />
                          <Hero />
                          <section className ="sec">
       <Card 
