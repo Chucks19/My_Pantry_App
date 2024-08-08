@@ -1,0 +1,36 @@
+#contact {
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+#contact h2 {
+    margin-bottom: 1rem;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+form label {
+    text-align: left;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+form button {
+    padding: 0.5rem 1rem;
+    border: none;
+    background: #fb57ac;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}

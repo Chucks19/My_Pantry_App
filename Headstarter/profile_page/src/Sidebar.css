@@ -1,0 +1,18 @@
+#sidebar {
+    background: #f4f4f4;  /* Classic background color */
+    padding: 1rem;
+    border-right: 2px solid #ddd;
+}
+
+#sidebar h2 {
+    margin-bottom: 1rem;
+}
+
+#sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+#sidebar li {
+    padding: 0.5rem 0;
+}

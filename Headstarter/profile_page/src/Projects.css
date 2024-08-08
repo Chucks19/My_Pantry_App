@@ -1,0 +1,30 @@
+#projects {
+    background:  rgb(79 68 79);  /* Classic background color */
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+#projects h2 {
+    margin-bottom: 1rem;
+}
+
+.project-grid {
+    display: flex;
+    justify-content:flex-start;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.project-item {
+    background: #fb57ac;  /* Classic background color */
+    padding: 1rem;
+    border-radius: 5px;
+    width: 250px;
+    max-height:min-content;
+}
+
+.project-item video {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+}
