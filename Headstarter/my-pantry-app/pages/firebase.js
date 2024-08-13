@@ -28,5 +28,3 @@ export const auth = getAuth(app);
 if (typeof window !== 'undefined') {
     const analytics = getAnalytics(app);
 }
-
-export {  db };
